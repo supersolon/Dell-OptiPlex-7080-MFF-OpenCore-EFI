@@ -54,7 +54,6 @@
 | Power Management → Wake on LAN/WLAN             | Lan only |
 | Power Management → Block Sleep                  | Disabled |
 | POST Behavior → Fastboot                        | Minimal |
-|-------------------------------------------------|-----|
 
 ## 修改DVMT和CFG LOCK的值 提供参考，
 * 无法使用Grub Setup_var 需要用到Ru.efi 将Ru.efi在BIOS中添加进Boot Menus 后启动 进入Ru后按 "Alt" + "=" 并
